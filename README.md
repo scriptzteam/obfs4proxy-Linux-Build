@@ -5,7 +5,7 @@ Build it from source
 ```
 apt install golang
 git clone https://github.com/Yawning/obfs4.git
-cd /obfs
+cd obfs4
 go build -o obfs4proxy/obfs4proxy ./obfs4proxy
 cp obfs4proxy/obfs4proxy /usr/bin
 ```
