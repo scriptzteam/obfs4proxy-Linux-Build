@@ -8,6 +8,9 @@ git clone https://github.com/Yawning/obfs4.git
 cd obfs4
 go build -o obfs4proxy/obfs4proxy ./obfs4proxy
 cp obfs4proxy/obfs4proxy /usr/bin
+
+/usr/bin/obfs4proxy -version
+obfs4proxy-0.0.13
 ```
 
 ### What?
